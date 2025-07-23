@@ -18,8 +18,8 @@ const projects = [
     ],
     image: '/eommer1.jpeg',
     accent: 'purple',
-    githubUrl: '#',
-    liveUrl: '#',
+    githubUrl: 'https://github.com/KushJariwala2002/supershop',
+    liveUrl: 'https://github.com/KushJariwala2002/supershop',
   },
   {
     title: 'TravelNest: Travel Planning Application',
@@ -35,8 +35,8 @@ const projects = [
     ],
     image: '/travel1.jpeg',
     accent: 'teal',
-    githubUrl: '#',
-    liveUrl: '#',
+    githubUrl: 'https://github.com/KushJariwala2002',
+    liveUrl: 'https://github.com/KushJariwala2002',
   },
   {
     title: 'School Details Management System',
@@ -53,7 +53,7 @@ const projects = [
     ],
     image: '/school.jpeg',
     accent: 'pink',
-    githubUrl: '#',
+    githubUrl: 'https://github.com/KushJariwala2002/School-Details-Management-System',
   },
 ];
 

@@ -10,8 +10,8 @@ const contactInfo = [
   },
 ];
 const socialLinks = [
-  { icon: <Github size={20} />, href: '#', label: 'GitHub' },
-  { icon: <Linkedin size={20} />, href: '#', label: 'LinkedIn' },
+  { icon: <Github size={20} />, href: 'https://github.com/KushJariwala2002', label: 'GitHub' },
+  { icon: <Linkedin size={20} />, href: 'https://www.linkedin.com/in/kush-jariwala-07063324a/', label: 'LinkedIn' },
 ];
 
 const cardVariants = {
